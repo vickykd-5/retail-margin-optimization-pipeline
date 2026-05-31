@@ -3,7 +3,6 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-2.0%2B-150458.svg?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-0.12%2B-4c72b0.svg?style=flat-square&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
 ---
 
