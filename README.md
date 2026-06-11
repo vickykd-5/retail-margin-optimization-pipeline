@@ -102,7 +102,7 @@ The project processes a multi-regional SuperStore transactional database contain
 * **Payment Processing Efficiencies:** Cross-referencing `Payment Mode` variations (`COD` vs. `Online`) shows distinct cash-flow profiles. Transitioning customers away from Cash on Delivery (COD) models could lower processing fees and minimize transaction risks.
 
 ---
-<a herf="-how-to-run"></a>
+<a id="-how-to-run"></a>
 ## 🛠️ How to Run
 
 ### Prerequisites
@@ -124,7 +124,7 @@ pip install -r requirements.txt
 jupyter notebook notebooks/exploratory\ data\ analysis.ipynb
 
 ---
-<a href="-author--contact"></a>
+<a id="-author--contact"></a>
 ## 👨‍💻 Author & Contact
 
 **Author:** Vivek Deore
