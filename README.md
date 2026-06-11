@@ -131,8 +131,8 @@ jupyter notebook notebooks/exploratory\ data\ analysis.ipynb
 
 📧 Email: vivekkdeore001@gmail.com
 
-🔗 LinkedIn: https://linkedin.com/in/your-profile
+🔗 LinkedIn: https://linkedin.com/in/vivekkdeore
 
-🔗 GitHub: https://github.com/yourusername
+🔗 GitHub: https://github.com/vickykd-5
 
 `#data-science` `#exploratory-data-analysis` `#pandas` `#data-engineering` `#retail-analytics` `#business-intelligence` `#data-storytelling` `#python`
